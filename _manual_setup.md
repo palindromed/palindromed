@@ -16,7 +16,7 @@ These are the setup steps that are automated by [setup.yaml](.github/workflows/s
 
       to
 
-    `![](https://github.com/{your-username}/{your-repo-name}/workflows/CI/badge.svg)`
+    `![](https://github.com/palindromed/palindromed/workflows/CI/badge.svg)`
 
 6. Change `baseurl:` in `_config.yaml` to the name of your repository. For example, instead of 
 
